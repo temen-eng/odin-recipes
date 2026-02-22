@@ -1,0 +1,1 @@
+This is a project in which I will exercise my html skill with links, pages, lists and images, to create a simple recipe page. This is part of The Odin Project assignments.
