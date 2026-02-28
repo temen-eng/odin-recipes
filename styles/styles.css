@@ -1,0 +1,27 @@
+.red {
+    background-color: red;
+    color: white;
+    padding: 10px;
+}
+
+.sarmale {
+    background-color: blanchedalmond;
+    color: brown;
+}
+
+.lasagna {
+    border-color: green;
+    border-style: solid;
+    background-color:cyan ;
+    color: red;
+}
+
+div {
+    width: 600px;
+    margin: 0 auto;
+}
+
+p {
+    background-color: blanchedalmond;
+    color: blue;
+}
